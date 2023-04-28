@@ -11,9 +11,9 @@ Date de votre visite: 08-03-2023
 
 Titre de l'oeuvre	Vue d'ensemble de l'oeuvre ou du dispositif	
 
-Nom de l'artiste: 	
+Nom de l'artiste: 	Sophie Kurtness
 
-Année de réalisation		
+Année de réalisation: 2022
 
 Description de l'oeuvre	Cartel + diverses vues	À composer ou reprendre la descritpion offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
 
