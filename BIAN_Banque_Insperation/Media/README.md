@@ -1,5 +1,5 @@
 
-##Exposition de LA BANQUE D'INSPIRATIONS
+## Exposition de LA BANQUE D'INSPIRATIONS
 
 Nom de l'exposition: #Eshi uapatakau ishkueuatsh tshitassinu / Regards de femmes sur le territoire
 
