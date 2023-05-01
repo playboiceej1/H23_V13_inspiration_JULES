@@ -24,9 +24,9 @@ Type d'installation: Immersive
 
 Mise en espace Vue d'ensemble de la pièce:
                      
-                     ![Image] (vue_principe_takuneu.jpg)
-                      ![Image] (vue_bas_takuneu.jpg)
-                       ![Image] (vue_bas_2_takuneu.jpg)
+                     ![Image](vue_principe_takuneu.jpg)
+                      ![Image](vue_bas_takuneu.jpg)
+                       ![Image](vue_bas_2_takuneu.jpg)
                       
 
 Composantes et techniques: 
