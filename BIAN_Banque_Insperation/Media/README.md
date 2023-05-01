@@ -1,7 +1,7 @@
 
-## Exposition de LA BANQUE D'INSPIRATIONS
+##Exposition de LA BANQUE D'INSPIRATIONS
 
-Nom de l'exposition: # Eshi uapatakau ishkueuatsh tshitassinu / Regards de femmes sur le territoire
+Nom de l'exposition: #Eshi uapatakau ishkueuatsh tshitassinu / Regards de femmes sur le territoire
 
 Lieu de mise en exposition: Galerie de l'UQAM
 
