@@ -24,15 +24,17 @@ Description de l'oeuvre Cartel:
 Type d'installation: Immersive
 
 Mise en espace Vue d'ensemble de la pièce:
-                     
-                     ![Image](vue_principe_takuneu.jpg)
-                       ![Image](vue_bas_takuneu.jpg)
-                        ![Image](vue_bas_2_takuneu.jpg)
+                ![Image](vue_prinicpe_takuneu.jpg)
+                  ![Image](vue_bas_takuneu.jpg)
+                    ![Image](vue_bas_2_takuneu.jpg)
                       
 
 Composantes et techniques: 
 
 Éléments nécessaires à la mise en exposition:
+                       ![Image](system_sons_takuneu.jpg)
+                        ![Image](vue_haut_takuneu.jpg)
+                         ![Image](vue_haut_takuneu.jpg)
 
 Expérience vécue Posture du visiteur ou gestes de l'interacteur
 
