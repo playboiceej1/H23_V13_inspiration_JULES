@@ -30,16 +30,19 @@ Mise en espace Vue d'ensemble de la pièce:
                       
 
 Composantes et techniques: 
+ Mise en place de plusieurs haut-parleurs dans les coins de la pièce et d'un mini projecteur au milieu avec des rochers suspendus au plafond.
 
 Éléments nécessaires à la mise en exposition:
                        ![Image](system_sons_takuneu.jpg)
                         ![Image](vue_haut_takuneu.jpg)
                          ![Image](vue_haut_takuneu.jpg)
+Haut-parleurs de salle, un petit projecteur au milieu, des cordes fines et des rochers.
+               
+Expérience vécue Posture du visiteur ou gestes de l'interacteur:
+ Quand je suis entré dans la petite pièce, j'ai été présenté par des sons enchanteurs faisant vibrer l'air. Il n'y avait pas grand-chose d'autre à faire que de se promener et de lire les planches du sol qui comprenaient des ruisseaux verts de terres dessinées portant de multiples noms d'artistes. La pièce donnait vraiment l'impression que j'étais sur un terrain spirituel.
 
-Expérience vécue Posture du visiteur ou gestes de l'interacteur
+❤️ Ce qui vous a plu : L'expérience lucide qui donnait l'impression de se promener sur un terrain spirituel et la façon dont les noms / dessins étaient mis en œuvre sur le sol.
 
-❤️ Ce qui vous a plu
-
-🤔 Éléments pertinents 
+🤔 Éléments pertinents : Le manque d'inclusion ou de contenu dans la salle.
 
 Références hyperliens vers les sites consultés
