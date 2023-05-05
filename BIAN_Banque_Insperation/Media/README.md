@@ -16,7 +16,8 @@ Nom de l'artiste: Sophie Kurtness
 Année de réalisation: 2022
 
 Description de l'oeuvre Cartel:
-"Avec, Takuneu, porter la vie, Sophie fait une mise a nue, 
+"Avec, Takuneu, porter la vie, Sophie fait une mise a nue, évoqaunt le Terre généreuse qui nous porte toutes, nous nourrit, nous abrite at donne sans compter. Au centre de son oeuvre, on retrouve des pierrres en suspension au nombre de quatre qui sombolisent ses quatre enfants qu'elle a portés. Pour elle, le territoire est vivant, il noues supporte, il est le lieu de pratiques culturelles, identitaires, un lieu de connexion avec ce qui est en nous et ce qui est plus grand que soi. Elle s'y sent en sécurité, à l'abri. De ce fait, elle se doit de sensibiliser les autres à sa beauté, afin de le protéger."
+(Paragraphe tiré directement de la description de Takenue, porter la vie)
 
 
 ![Image](description_ouvre_takuneu.jpg)
