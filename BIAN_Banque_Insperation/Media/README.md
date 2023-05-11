@@ -35,7 +35,7 @@ Immersive
                 ![Image](vue_prinicpe_takuneu.jpg)
                   ![Image](vue_bas_takuneu.jpg)
                     ![Image](vue_bas_2_takuneu.jpg)
-                      ![Image}(croquis_salle_takuneu.png)
+                      ![Image](croquis_salle_takuneu.pn)
 
 ### Composantes et techniques: 
  Mise en place de plusieurs haut-parleurs dans les coins de la pièce et d'un mini projecteur au milieu avec des rochers suspendus au plafond.
